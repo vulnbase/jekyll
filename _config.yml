@@ -1,1 +1,2 @@
-kramdown: []
+kramdown:
+  - test: 1
